@@ -1,0 +1,1 @@
+void draw_f(int, int **, int **);
